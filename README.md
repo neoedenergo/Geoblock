@@ -1,4 +1,5 @@
-# Geoblock
+## If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/geoblock](https://forgejo.neoeden.org/ergo/geoblock)
+---
 
 Change the allowed-countries array to contain the list of countries that you don't want to blacklist, all other countries in the world will be blacklisted, you must use the ISO 3166-1 alpha-2 code for the countries.
 
